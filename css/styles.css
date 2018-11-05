@@ -5,14 +5,28 @@ body {
 
 .hello {
   text-align: center;
-  float: left;
 }
 
-.aside {
-  Float: left;
+.jumbotron {
+  background-color: #cb0000;
 }
 
-.aside h2 {
-  font-family: Impact, Charcoal, sans-serif;
-  font-size: 24px;
+.nav-tabs {
+  background-color: black;
+}
+
+li a {
+  color: #b5ac00;
+  background-color: #890000;
+}
+
+.nav-tabs > li.active > a {
+  background-color: #cb0000;
+}
+
+.panel-body {
+  border-color: #cb0000;
+  background-color: #cb0000;
+  text-align: center;
+  width: 50%
 }
