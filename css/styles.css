@@ -1,6 +1,26 @@
 body {
   background-color: #000000;
-  color: #ffffff;
+  color: #fff300;
+}
+
+.nav-tabs > li.active > a {
+  color: #fff300
+}
+
+.skram {
+  background-image: url("../img/skramjumbo102.png");
+  background color: #cccccc;
+  color: red;
+}
+
+.buff {
+  background-image: url("../img/BuffMcKillguy4never.png");
+  color: #fbf236;
+}
+
+.tuk {
+  background-image: url("../img/tuk.png");
+  color: #62e4ff;
 }
 
 .hello {
@@ -25,8 +45,6 @@ li a {
 }
 
 .panel-body {
-  border-color: #cb0000;
-  background-color: #cb0000;
   text-align: center;
-  width: 50%
+  background-color: #cb0000;
 }
