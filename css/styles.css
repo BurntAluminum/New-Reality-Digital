@@ -3,6 +3,34 @@ body {
   color: #fff300;
 }
 
+.panel a:hover {
+  color: blue;
+  background-color: #cb0000;
+}
+
+.panel a:link {
+  color: blue;
+  background-color: #cb0000;
+}
+
+.panel a:active {
+  color: #240055;
+  background-color: #cb0000;
+}
+
+.panel a:visited {
+  color: #240055;
+  background-color: #cb0000;
+}
+
+.Mission {
+  font-size: 32px;
+}
+
+.Corruption {
+  font-size: 32px;
+}
+
 .nav-tabs > li.active > a {
   color: #fff300
 }
@@ -15,16 +43,28 @@ body {
 
 .buff {
   background-image: url("../img/BuffMcKillguy4never.png");
+  background-size: cover;
   color: #fbf236;
 }
 
 .tuk {
   background-image: url("../img/tuk.png");
+  background-size: cover;
+  min-height: 180px;
   color: #62e4ff;
 }
 
 .hello {
   text-align: center;
+}
+
+.copybox {
+  border: 2px #cb0000;
+  padding: 4px;
+  margin: 24px;
+  background-color: #cb0000;
+  text-align: center;
+  font-size: 10px
 }
 
 .jumbotron {
