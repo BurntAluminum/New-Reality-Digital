@@ -11,7 +11,7 @@ opposed to blindly buying the hot product out of Zombie Consumerism.
 
 ## Setup
 
-To set this up access my GitHub pages.
+To set this up access NRD from my GitHub pages https://burntaluminum.github.io/New-Reality-Digital/index
 
 ## License
 
