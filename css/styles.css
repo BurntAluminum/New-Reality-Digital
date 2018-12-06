@@ -3,6 +3,11 @@ body {
   color: #fff300;
 }
 
+li a {
+  color: #b5ac00;
+  background-color: #890000;
+}
+
 .panel a:hover {
   color: blue;
   background-color: #cb0000;
@@ -37,7 +42,7 @@ body {
 
 .skram {
   background-image: url("../img/skramjumbo102.png");
-  background color: #cccccc;
+  background-color: #cccccc;
   color: red;
 }
 
@@ -73,11 +78,6 @@ body {
 
 .nav-tabs {
   background-color: black;
-}
-
-li a {
-  color: #b5ac00;
-  background-color: #890000;
 }
 
 .nav-tabs > li.active > a {
